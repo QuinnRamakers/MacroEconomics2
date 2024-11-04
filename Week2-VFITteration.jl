@@ -1,4 +1,4 @@
-# i base it on this
+# i base it on this https://www.karenkopecky.net/Teaching/eco613614/Notes_ValueFunctionIteration.pdf
 N=100
 V0 = zeros(N, 1)
 kmin = 0.0
